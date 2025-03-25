@@ -1,0 +1,617 @@
+{
+  "vaultName": "Obsidian",
+  "lastExport": 1742875811593,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Sundberg Video full/2019/The Most Extraordinary Before Life and Past Life Memory Story You Have Ever Seen.md",
+    "Sundberg Video full/2020/An Astounding Story of Life Between Lives.md",
+    "Sundberg Video full/2020/Chat with Christian Sundberg - A walk in the physical.md",
+    "Sundberg Video full/2020/Episode 12 - Christian Sundberg.md",
+    "Sundberg Video full/2021/43 Awakening To Healing With Christian Sundberg - Remembering Past Lives.md",
+    "Sundberg Video full/2021/77 - Christian Sundberg - Pre-Birth Experience - The Nonduality Podcast.md",
+    "Sundberg Video full/2021/Christian Sundberg - Pre-Birth Experience, Incarnation Memory, Purpose of Life on Earth - BatGap.md",
+    "Sundberg Video full/2021/Christian Sundberg Talks About Pre-birth Memories, The Purpose Of Life, Suffering, And Is Hell Real.md",
+    "Sundberg Video full/2021/Christian Sundberg's Pre-Birth Visions.md",
+    "Sundberg Video full/2021/INTUITIVE PSYCHIC READING - Chatting With Christian Sundberg.md",
+    "Sundberg Video full/2021/LET'S TALK ABOUT PRE-BIRTH EXPERIENCES WITH CHRISTIAN SUNDBERG.md",
+    "Sundberg Video full/2021/My Life Between Lives Experience.md",
+    "Sundberg Video full/2021/PRE-BIRTH EXPERIENCE - Life Before Birth, The Spirit of God, Choice & The Veil - Christian Sundberg.md",
+    "Sundberg Video full/2021/PRE-BIRTH EXPERIENCE - LIVE Interview with Christian Sundberg.md",
+    "Sundberg Video full/2021/Pre-Birth Memories, NDEs, and Consciousness.md",
+    "Sundberg Video full/2021/Pre-Life Memories, Spirit Realm & Dispelling Fear from our Life with Christian Sundberg.md",
+    "Sundberg Video full/2021/Why We Come to Earth.md",
+    "Sundberg Video full/2022/A Gift of Being Human – Christian Sundberg.md",
+    "Sundberg Video full/2022/Angela Tomlinson Interview with Christian Sundberg.md",
+    "Sundberg Video full/2022/Before Human Existence.md",
+    "Sundberg Video full/2022/Christian Sundberg Full 2022.md",
+    "Sundberg Video full/2022/Life changing Q and A with Christian Sundberg.md",
+    "Sundberg Video full/2022/Pre-Birth Memories and Out of Body Experiences.md",
+    "Sundberg Video full/2022/Pre-Birth Memories with Christian Sundberg.md",
+    "Sundberg Video full/2023/Christian Sundberg _ Past Lives, Awakening, Spirit Realm _ Ep. 207.md",
+    "Sundberg Video full/2023/Christian Sundberg Author of A Walk in the Physical Core Curriculum.md",
+    "Sundberg Video full/2023/Christian Sundbergs Pre-Birth Memories and Spiritual Journey Will Blow Your Mind.md",
+    "Sundberg Video full/2023/He remembers the CHOICE he made to be human and tells us why we are Human!.md",
+    "Sundberg Video full/2023/How to Let Go Of Your Fear with Christian Sundberg.md",
+    "Sundberg Video full/2023/I Remember Choosing to Come to Earth! BREATHTAKING Pre-Birth Memory.md",
+    "Sundberg Video full/2023/Insights on Life Purpose from Pre-Birth and NDE OBE Experience.md",
+    "Sundberg Video full/2023/Life Before Birth with Christian Sundberg.md",
+    "Sundberg Video full/2023/Navigating Life's Crossroads with Christian Sundberg.md",
+    "Sundberg Video full/2023/PRE-BIRTH EXPERIENCE, Why Life IS SO HARD & YOUR Life BEFORE Incarnation!.md",
+    "Sundberg Video full/2024/34 CHRISTIAN SUNDBERG - MEMOIRES DE PRE-INCARNATION.md",
+    "Sundberg Video full/2024/A Deeper Look at Existence with Christian Sundberg.md",
+    "Sundberg Video full/2024/A Walk in the Physical with Christian Sundberg.md",
+    "Sundberg Video full/2024/Alchemizing Fear and the Significance of Coming to Earth with Christian Sundberg.md",
+    "Sundberg Video full/2024/Beyond Conscious A Conversation with Christian Sundberg.md",
+    "Sundberg Video full/2024/GOOD VIBRATIONS PODCAST VOL 247 CHRISTIAN SUNDBERG - LIFE BETWEEN LIVES.md",
+    "Sundberg Video full/2024/HE REMEMBERS BEING WITH GOD AND SAYS, GOD IS UNSPEAKABLY LOVING.md",
+    "Sundberg Video full/2024/Man Travels to The Other Side, Reveals Why There Are Difficult And Happy Life on Earth.md",
+    "Sundberg Video full/2024/MINDBLOWING! CHRISTIAN SUNDBERG Speaks About HOW to NAVIGATE This REALITY by Letting Go of FEAR!.md",
+    "Sundberg Video full/2024/RARE Pre-Birth Experience_ Life BEFORE Incarnation REVEALED!.md",
+    "Sundberg Video full/2024/Remembering Life Pre-Birth + Between Lives with Christian Sundberg.md",
+    "Sundberg Video full/2024/Remembering Your Life Before Birth with Christian Sundberg.md",
+    "Sundberg Video full/2024/SHOCKING! Pre-Birth Experiencers Share the TRUTH About Why We SUFFER on Earth!.md",
+    "Sundberg Video full/2024/Unveiling Life as a Simulation for Spiritual Awakening and Growth.md",
+    "Sundberg Video full/2024/Where Do We Go After We Die_ Man’s PRE-Birth Offers a Glimpse! Christian Sundberg.md",
+    "Sundberg Video full/2025/Christian Sundberg - From Pre-Birth to Human_ The Expansion of Love Through the Earthly Experience.md",
+    "Sundberg Video full/2025/Rare Insights A Deep Dive with Christian Sundberg on Prebirth Memories & Self-Love.md",
+    "Sundberg Video full/2025/The TRUTH About Your Pre-Birth Plan—You Won’t Believe What You Agreed To.md",
+    "Sundberg Video full/Index Video Christian Sundberg.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Sundberg Video full/2019/The Most Extraordinary Before Life and Past Life Memory Story You Have Ever Seen.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 44494,
+      "exportedPath": "sundberg-video-full/2019/the-most-extraordinary-before-life-and-past-life-memory-story-you-have-ever-seen.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2020/An Astounding Story of Life Between Lives.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 82646,
+      "exportedPath": "sundberg-video-full/2020/an-astounding-story-of-life-between-lives.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2020/Chat with Christian Sundberg - A walk in the physical.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 49810,
+      "exportedPath": "sundberg-video-full/2020/chat-with-christian-sundberg-a-walk-in-the-physical.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2020/Episode 12 - Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 55888,
+      "exportedPath": "sundberg-video-full/2020/episode-12-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/43 Awakening To Healing With Christian Sundberg - Remembering Past Lives.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 74496,
+      "exportedPath": "sundberg-video-full/2021/43-awakening-to-healing-with-christian-sundberg-remembering-past-lives.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/77 - Christian Sundberg - Pre-Birth Experience - The Nonduality Podcast.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 68982,
+      "exportedPath": "sundberg-video-full/2021/77-christian-sundberg-pre-birth-experience-the-nonduality-podcast.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/Christian Sundberg - Pre-Birth Experience, Incarnation Memory, Purpose of Life on Earth - BatGap.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 125867,
+      "exportedPath": "sundberg-video-full/2021/christian-sundberg-pre-birth-experience,-incarnation-memory,-purpose-of-life-on-earth-batgap.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/Christian Sundberg Talks About Pre-birth Memories, The Purpose Of Life, Suffering, And Is Hell Real.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 51510,
+      "exportedPath": "sundberg-video-full/2021/christian-sundberg-talks-about-pre-birth-memories,-the-purpose-of-life,-suffering,-and-is-hell-real.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/Christian Sundberg's Pre-Birth Visions.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 56820,
+      "exportedPath": "sundberg-video-full/2021/christian-sundberg's-pre-birth-visions.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/INTUITIVE PSYCHIC READING - Chatting With Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 58481,
+      "exportedPath": "sundberg-video-full/2021/intuitive-psychic-reading-chatting-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/LET'S TALK ABOUT PRE-BIRTH EXPERIENCES WITH CHRISTIAN SUNDBERG.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 64024,
+      "exportedPath": "sundberg-video-full/2021/let's-talk-about-pre-birth-experiences-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/My Life Between Lives Experience.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 58244,
+      "exportedPath": "sundberg-video-full/2021/my-life-between-lives-experience.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/PRE-BIRTH EXPERIENCE - Life Before Birth, The Spirit of God, Choice & The Veil - Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 53474,
+      "exportedPath": "sundberg-video-full/2021/pre-birth-experience-life-before-birth,-the-spirit-of-god,-choice-&-the-veil-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/PRE-BIRTH EXPERIENCE - LIVE Interview with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 72992,
+      "exportedPath": "sundberg-video-full/2021/pre-birth-experience-live-interview-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/Pre-Birth Memories, NDEs, and Consciousness.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 56811,
+      "exportedPath": "sundberg-video-full/2021/pre-birth-memories,-ndes,-and-consciousness.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/Pre-Life Memories, Spirit Realm & Dispelling Fear from our Life with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 46660,
+      "exportedPath": "sundberg-video-full/2021/pre-life-memories,-spirit-realm-&-dispelling-fear-from-our-life-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2021/Why We Come to Earth.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 98898,
+      "exportedPath": "sundberg-video-full/2021/why-we-come-to-earth.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/A Gift of Being Human – Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 72227,
+      "exportedPath": "sundberg-video-full/2022/a-gift-of-being-human-–-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/Angela Tomlinson Interview with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 42441,
+      "exportedPath": "sundberg-video-full/2022/angela-tomlinson-interview-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/Before Human Existence.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 53058,
+      "exportedPath": "sundberg-video-full/2022/before-human-existence.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/Christian Sundberg Full 2022.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 30926,
+      "exportedPath": "sundberg-video-full/2022/christian-sundberg-full-2022.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/Life changing Q and A with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 53695,
+      "exportedPath": "sundberg-video-full/2022/life-changing-q-and-a-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/Pre-Birth Memories and Out of Body Experiences.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 45495,
+      "exportedPath": "sundberg-video-full/2022/pre-birth-memories-and-out-of-body-experiences.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2022/Pre-Birth Memories with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 67423,
+      "exportedPath": "sundberg-video-full/2022/pre-birth-memories-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/Christian Sundberg _ Past Lives, Awakening, Spirit Realm _ Ep. 207.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 73082,
+      "exportedPath": "sundberg-video-full/2023/christian-sundberg-_-past-lives,-awakening,-spirit-realm-_-ep.-207.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/Christian Sundberg Author of A Walk in the Physical Core Curriculum.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 76086,
+      "exportedPath": "sundberg-video-full/2023/christian-sundberg-author-of-a-walk-in-the-physical-core-curriculum.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/Christian Sundbergs Pre-Birth Memories and Spiritual Journey Will Blow Your Mind.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 71914,
+      "exportedPath": "sundberg-video-full/2023/christian-sundbergs-pre-birth-memories-and-spiritual-journey-will-blow-your-mind.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/He remembers the CHOICE he made to be human and tells us why we are Human!.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 72730,
+      "exportedPath": "sundberg-video-full/2023/he-remembers-the-choice-he-made-to-be-human-and-tells-us-why-we-are-human!.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/How to Let Go Of Your Fear with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 73980,
+      "exportedPath": "sundberg-video-full/2023/how-to-let-go-of-your-fear-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/I Remember Choosing to Come to Earth! BREATHTAKING Pre-Birth Memory.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 69935,
+      "exportedPath": "sundberg-video-full/2023/i-remember-choosing-to-come-to-earth!-breathtaking-pre-birth-memory.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/Insights on Life Purpose from Pre-Birth and NDE OBE Experience.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 67758,
+      "exportedPath": "sundberg-video-full/2023/insights-on-life-purpose-from-pre-birth-and-nde-obe-experience.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/Life Before Birth with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 48531,
+      "exportedPath": "sundberg-video-full/2023/life-before-birth-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/Navigating Life's Crossroads with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 58070,
+      "exportedPath": "sundberg-video-full/2023/navigating-life's-crossroads-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2023/PRE-BIRTH EXPERIENCE, Why Life IS SO HARD & YOUR Life BEFORE Incarnation!.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 73072,
+      "exportedPath": "sundberg-video-full/2023/pre-birth-experience,-why-life-is-so-hard-&-your-life-before-incarnation!.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/34 CHRISTIAN SUNDBERG - MEMOIRES DE PRE-INCARNATION.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 62806,
+      "exportedPath": "sundberg-video-full/2024/34-christian-sundberg-memoires-de-pre-incarnation.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/A Deeper Look at Existence with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 53098,
+      "exportedPath": "sundberg-video-full/2024/a-deeper-look-at-existence-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/A Walk in the Physical with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 91928,
+      "exportedPath": "sundberg-video-full/2024/a-walk-in-the-physical-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Alchemizing Fear and the Significance of Coming to Earth with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 12696,
+      "exportedPath": "sundberg-video-full/2024/alchemizing-fear-and-the-significance-of-coming-to-earth-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Beyond Conscious A Conversation with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 80335,
+      "exportedPath": "sundberg-video-full/2024/beyond-conscious-a-conversation-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/GOOD VIBRATIONS PODCAST VOL 247 CHRISTIAN SUNDBERG - LIFE BETWEEN LIVES.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 66349,
+      "exportedPath": "sundberg-video-full/2024/good-vibrations-podcast-vol-247-christian-sundberg-life-between-lives.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/HE REMEMBERS BEING WITH GOD AND SAYS, GOD IS UNSPEAKABLY LOVING.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 69267,
+      "exportedPath": "sundberg-video-full/2024/he-remembers-being-with-god-and-says,-god-is-unspeakably-loving.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Man Travels to The Other Side, Reveals Why There Are Difficult And Happy Life on Earth.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 28016,
+      "exportedPath": "sundberg-video-full/2024/man-travels-to-the-other-side,-reveals-why-there-are-difficult-and-happy-life-on-earth.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/MINDBLOWING! CHRISTIAN SUNDBERG Speaks About HOW to NAVIGATE This REALITY by Letting Go of FEAR!.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 67762,
+      "exportedPath": "sundberg-video-full/2024/mindblowing!-christian-sundberg-speaks-about-how-to-navigate-this-reality-by-letting-go-of-fear!.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/RARE Pre-Birth Experience_ Life BEFORE Incarnation REVEALED!.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 116125,
+      "exportedPath": "sundberg-video-full/2024/rare-pre-birth-experience_-life-before-incarnation-revealed!.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Remembering Life Pre-Birth + Between Lives with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 84039,
+      "exportedPath": "sundberg-video-full/2024/remembering-life-pre-birth-+-between-lives-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Remembering Your Life Before Birth with Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 75721,
+      "exportedPath": "sundberg-video-full/2024/remembering-your-life-before-birth-with-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/SHOCKING! Pre-Birth Experiencers Share the TRUTH About Why We SUFFER on Earth!.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 95054,
+      "exportedPath": "sundberg-video-full/2024/shocking!-pre-birth-experiencers-share-the-truth-about-why-we-suffer-on-earth!.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Unveiling Life as a Simulation for Spiritual Awakening and Growth.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 60818,
+      "exportedPath": "sundberg-video-full/2024/unveiling-life-as-a-simulation-for-spiritual-awakening-and-growth.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2024/Where Do We Go After We Die_ Man’s PRE-Birth Offers a Glimpse! Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 66737,
+      "exportedPath": "sundberg-video-full/2024/where-do-we-go-after-we-die_-man’s-pre-birth-offers-a-glimpse!-christian-sundberg.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2025/Christian Sundberg - From Pre-Birth to Human_ The Expansion of Love Through the Earthly Experience.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 132091,
+      "exportedPath": "sundberg-video-full/2025/christian-sundberg-from-pre-birth-to-human_-the-expansion-of-love-through-the-earthly-experience.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2025/Rare Insights A Deep Dive with Christian Sundberg on Prebirth Memories & Self-Love.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 66168,
+      "exportedPath": "sundberg-video-full/2025/rare-insights-a-deep-dive-with-christian-sundberg-on-prebirth-memories-&-self-love.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/2025/The TRUTH About Your Pre-Birth Plan—You Won’t Believe What You Agreed To.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 80134,
+      "exportedPath": "sundberg-video-full/2025/the-truth-about-your-pre-birth-plan—you-won’t-believe-what-you-agreed-to.html",
+      "dependencies": []
+    },
+    "Sundberg Video full/Index Video Christian Sundberg.md": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 5403,
+      "exportedPath": "sundberg-video-full/index-video-christian-sundberg.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 29016,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 9833,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 137329,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 2428,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1742875811593,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
